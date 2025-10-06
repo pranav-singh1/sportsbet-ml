@@ -1,0 +1,122 @@
+game_id,home_team,away_team,bookmaker,spread_home,spread_away,price_home,price_away,commence_time,last_update
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,DraftKings,-8.0,8.0,-110,-110,2025-10-21T23:30:00Z,2025-10-06T02:15:41Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,FanDuel,-8.5,8.5,-106,-114,2025-10-21T23:30:00Z,2025-10-06T02:14:06Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,MyBookie.ag,-8.0,8.0,-110,-110,2025-10-21T23:30:00Z,2025-10-06T02:15:34Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,LowVig.ag,-8.0,8.0,-106,-106,2025-10-21T23:30:00Z,2025-10-06T02:15:32Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,Bovada,-8.0,8.0,-105,-115,2025-10-21T23:30:00Z,2025-10-06T02:15:01Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,BetOnline.ag,-8.0,8.0,-110,-110,2025-10-21T23:30:00Z,2025-10-06T02:15:32Z
+bbde7751a144b98ed150d7a5f7dc8f87,Oklahoma City Thunder,Houston Rockets,BetRivers,-8.0,8.0,-113,-112,2025-10-21T23:30:00Z,2025-10-06T02:15:50Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,DraftKings,-3.5,3.5,-110,-110,2025-10-22T02:00:00Z,2025-10-06T02:15:41Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,FanDuel,-3.5,3.5,-112,-108,2025-10-22T02:00:00Z,2025-10-06T02:14:06Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,MyBookie.ag,-4.0,4.0,-110,-110,2025-10-22T02:00:00Z,2025-10-06T02:15:34Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,LowVig.ag,-4.0,4.0,-106,-106,2025-10-22T02:00:00Z,2025-10-06T02:15:32Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,Bovada,-4.0,4.0,-110,-110,2025-10-22T02:00:00Z,2025-10-06T02:15:01Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,BetOnline.ag,-4.0,4.0,-110,-110,2025-10-22T02:00:00Z,2025-10-06T02:15:32Z
+df4b9f35b66ef20724b6b3e81081ddfd,Los Angeles Lakers,Golden State Warriors,BetRivers,-3.5,3.5,-114,-112,2025-10-22T02:00:00Z,2025-10-06T02:15:50Z
+2c566908fd21c1179a1affda3f24b101,Charlotte Hornets,Brooklyn Nets,DraftKings,-4.0,4.0,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:41Z
+2c566908fd21c1179a1affda3f24b101,Charlotte Hornets,Brooklyn Nets,MyBookie.ag,-4.0,4.0,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:34Z
+2c566908fd21c1179a1affda3f24b101,Charlotte Hornets,Brooklyn Nets,BetRivers,-4.5,4.5,-109,-117,2025-10-22T23:10:00Z,2025-10-06T02:15:50Z
+2c566908fd21c1179a1affda3f24b101,Charlotte Hornets,Brooklyn Nets,FanDuel,-4.5,4.5,-115,-105,2025-10-22T23:10:00Z,2025-10-06T02:14:06Z
+aa92da00abef11a7ee1f773cb708d710,New York Knicks,Cleveland Cavaliers,DraftKings,-4.0,4.0,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:41Z
+aa92da00abef11a7ee1f773cb708d710,New York Knicks,Cleveland Cavaliers,MyBookie.ag,-4.0,4.0,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:34Z
+aa92da00abef11a7ee1f773cb708d710,New York Knicks,Cleveland Cavaliers,BetRivers,-3.5,3.5,-113,-113,2025-10-22T23:10:00Z,2025-10-06T02:15:50Z
+aa92da00abef11a7ee1f773cb708d710,New York Knicks,Cleveland Cavaliers,FanDuel,-3.5,3.5,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:14:06Z
+b6dc11956532645db427ed48107dd05b,Orlando Magic,Miami Heat,DraftKings,-8.5,8.5,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:41Z
+b6dc11956532645db427ed48107dd05b,Orlando Magic,Miami Heat,MyBookie.ag,-8.5,8.5,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:15:34Z
+b6dc11956532645db427ed48107dd05b,Orlando Magic,Miami Heat,BetRivers,-8.5,8.5,-110,-115,2025-10-22T23:10:00Z,2025-10-06T02:15:50Z
+b6dc11956532645db427ed48107dd05b,Orlando Magic,Miami Heat,FanDuel,-8.5,8.5,-110,-110,2025-10-22T23:10:00Z,2025-10-06T02:14:06Z
+cf5a3b9aeb20f4bc8fc824f2e84ce67f,Atlanta Hawks,Toronto Raptors,DraftKings,-6.0,6.0,-110,-110,2025-10-22T23:40:00Z,2025-10-06T02:15:41Z
+cf5a3b9aeb20f4bc8fc824f2e84ce67f,Atlanta Hawks,Toronto Raptors,MyBookie.ag,-6.0,6.0,-110,-110,2025-10-22T23:40:00Z,2025-10-06T02:15:34Z
+cf5a3b9aeb20f4bc8fc824f2e84ce67f,Atlanta Hawks,Toronto Raptors,BetRivers,-6.0,6.0,-112,-114,2025-10-22T23:40:00Z,2025-10-06T02:15:50Z
+cf5a3b9aeb20f4bc8fc824f2e84ce67f,Atlanta Hawks,Toronto Raptors,FanDuel,-6.0,6.0,-112,-108,2025-10-22T23:40:00Z,2025-10-06T02:14:06Z
+13917a414157bda81dd6b417d440e1a6,Boston Celtics,Philadelphia 76ers,DraftKings,-2.0,2.0,-110,-110,2025-10-22T23:40:00Z,2025-10-06T02:15:41Z
+13917a414157bda81dd6b417d440e1a6,Boston Celtics,Philadelphia 76ers,MyBookie.ag,-2.0,2.0,-110,-110,2025-10-22T23:40:00Z,2025-10-06T02:15:34Z
+13917a414157bda81dd6b417d440e1a6,Boston Celtics,Philadelphia 76ers,BetRivers,-2.0,2.0,-114,-112,2025-10-22T23:40:00Z,2025-10-06T02:15:50Z
+13917a414157bda81dd6b417d440e1a6,Boston Celtics,Philadelphia 76ers,FanDuel,-1.5,1.5,-115,-105,2025-10-22T23:40:00Z,2025-10-06T02:14:06Z
+89733f00ce9f9896e48c1e0e9b45048e,Chicago Bulls,Detroit Pistons,DraftKings,2.5,-2.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:41Z
+89733f00ce9f9896e48c1e0e9b45048e,Chicago Bulls,Detroit Pistons,MyBookie.ag,2.5,-2.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:34Z
+89733f00ce9f9896e48c1e0e9b45048e,Chicago Bulls,Detroit Pistons,BetRivers,2.0,-2.0,-112,-114,2025-10-23T00:10:00Z,2025-10-06T02:15:50Z
+89733f00ce9f9896e48c1e0e9b45048e,Chicago Bulls,Detroit Pistons,FanDuel,3.5,-3.5,-115,-105,2025-10-23T00:10:00Z,2025-10-06T02:14:06Z
+a8db154fca88077a84df28acdd7d2f5a,Memphis Grizzlies,New Orleans Pelicans,DraftKings,-4.5,4.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:41Z
+a8db154fca88077a84df28acdd7d2f5a,Memphis Grizzlies,New Orleans Pelicans,MyBookie.ag,-4.5,4.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:34Z
+a8db154fca88077a84df28acdd7d2f5a,Memphis Grizzlies,New Orleans Pelicans,BetRivers,-4.5,4.5,-112,-114,2025-10-23T00:10:00Z,2025-10-06T02:15:50Z
+a8db154fca88077a84df28acdd7d2f5a,Memphis Grizzlies,New Orleans Pelicans,FanDuel,-3.5,3.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:14:06Z
+61f18a914904dd9e20703519f00edf24,Milwaukee Bucks,Washington Wizards,DraftKings,-8.5,8.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:41Z
+61f18a914904dd9e20703519f00edf24,Milwaukee Bucks,Washington Wizards,MyBookie.ag,-8.5,8.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:15:34Z
+61f18a914904dd9e20703519f00edf24,Milwaukee Bucks,Washington Wizards,BetRivers,-8.5,8.5,-114,-112,2025-10-23T00:10:00Z,2025-10-06T02:15:50Z
+61f18a914904dd9e20703519f00edf24,Milwaukee Bucks,Washington Wizards,FanDuel,-9.5,9.5,-110,-110,2025-10-23T00:10:00Z,2025-10-06T02:14:06Z
+dfa56bede06bbf73e18d8c019c3e5626,Utah Jazz,Los Angeles Clippers,DraftKings,8.0,-8.0,-110,-110,2025-10-23T01:10:00Z,2025-10-06T02:15:41Z
+dfa56bede06bbf73e18d8c019c3e5626,Utah Jazz,Los Angeles Clippers,MyBookie.ag,8.0,-8.0,-110,-110,2025-10-23T01:10:00Z,2025-10-06T02:15:34Z
+dfa56bede06bbf73e18d8c019c3e5626,Utah Jazz,Los Angeles Clippers,BetRivers,8.0,-8.0,-112,-113,2025-10-23T01:10:00Z,2025-10-06T02:15:50Z
+dfa56bede06bbf73e18d8c019c3e5626,Utah Jazz,Los Angeles Clippers,FanDuel,8.5,-8.5,-105,-115,2025-10-23T01:10:00Z,2025-10-06T02:14:06Z
+e9b75400f975f37c5d4c03414110530d,Dallas Mavericks,San Antonio Spurs,DraftKings,-2.0,2.0,-110,-110,2025-10-23T01:40:00Z,2025-10-06T02:15:41Z
+e9b75400f975f37c5d4c03414110530d,Dallas Mavericks,San Antonio Spurs,MyBookie.ag,-2.0,2.0,-110,-110,2025-10-23T01:40:00Z,2025-10-06T02:15:34Z
+e9b75400f975f37c5d4c03414110530d,Dallas Mavericks,San Antonio Spurs,BetRivers,-1.5,1.5,-115,-110,2025-10-23T01:40:00Z,2025-10-06T02:15:50Z
+e9b75400f975f37c5d4c03414110530d,Dallas Mavericks,San Antonio Spurs,FanDuel,-3.0,3.0,-105,-115,2025-10-23T01:40:00Z,2025-10-06T02:14:06Z
+18a8312266521477423664257e995981,Portland Trail Blazers,Minnesota Timberwolves,DraftKings,2.5,-2.5,-110,-110,2025-10-23T02:10:00Z,2025-10-06T02:15:41Z
+18a8312266521477423664257e995981,Portland Trail Blazers,Minnesota Timberwolves,MyBookie.ag,2.5,-2.5,-110,-110,2025-10-23T02:10:00Z,2025-10-06T02:15:34Z
+18a8312266521477423664257e995981,Portland Trail Blazers,Minnesota Timberwolves,BetRivers,3.5,-3.5,-113,-113,2025-10-23T02:10:00Z,2025-10-06T02:15:50Z
+18a8312266521477423664257e995981,Portland Trail Blazers,Minnesota Timberwolves,FanDuel,3.5,-3.5,-115,-105,2025-10-23T02:10:00Z,2025-10-06T02:14:06Z
+0042b0009547d8a7c9827977546613de,Phoenix Suns,Sacramento Kings,DraftKings,-1.0,1.0,-110,-110,2025-10-23T02:10:00Z,2025-10-06T02:15:41Z
+0042b0009547d8a7c9827977546613de,Phoenix Suns,Sacramento Kings,MyBookie.ag,-1.0,1.0,-110,-110,2025-10-23T02:10:00Z,2025-10-06T02:15:34Z
+0042b0009547d8a7c9827977546613de,Phoenix Suns,Sacramento Kings,BetRivers,-1.5,1.5,-110,-114,2025-10-23T02:10:00Z,2025-10-06T02:15:50Z
+0042b0009547d8a7c9827977546613de,Phoenix Suns,Sacramento Kings,FanDuel,-1.5,1.5,-105,-115,2025-10-23T02:10:00Z,2025-10-06T02:14:06Z
+072f959e31211e7c805451ce92a5f4e5,Indiana Pacers,Oklahoma City Thunder,DraftKings,7.5,-7.5,-110,-110,2025-10-23T23:40:00Z,2025-10-06T02:15:41Z
+94f35a6d58c57801c32a564d04e32270,Golden State Warriors,Denver Nuggets,DraftKings,-1.0,1.0,-108,-112,2025-10-24T02:10:00Z,2025-10-06T02:15:41Z
+600dfc9979b72eeef44b5545ba9fe18f,New York Knicks,Boston Celtics,DraftKings,-6.5,6.5,-110,-110,2025-10-24T23:30:00Z,2025-10-06T02:15:41Z
+00eb7e982d3c341cdc68795c73d901e1,Los Angeles Lakers,Minnesota Timberwolves,DraftKings,-2.5,2.5,-110,-110,2025-10-25T02:00:00Z,2025-10-06T02:15:41Z
+5c3141a83aab2381b9837f56079156fd,Detroit Pistons,Cleveland Cavaliers,DraftKings,1.5,-1.5,-110,-110,2025-10-27T23:00:00Z,2025-10-06T02:15:41Z
+3a6b0d7961360bd22e31e59ea415ff57,Minnesota Timberwolves,Denver Nuggets,DraftKings,-1.5,1.5,-110,-110,2025-10-28T01:30:00Z,2025-10-06T02:15:41Z
+3784e9747b97bec1c1aab8f693656f18,Philadelphia 76ers,Boston Celtics,DraftKings,-4.0,4.0,-110,-110,2025-10-31T23:00:00Z,2025-10-06T02:15:41Z
+8cf5f0182f14070fbb4decdff17134ed,Memphis Grizzlies,Los Angeles Lakers,DraftKings,1.5,-1.5,-110,-110,2025-11-01T01:30:00Z,2025-10-06T02:15:41Z
+1269706534827fc185ca0d61405ecd99,San Antonio Spurs,Houston Rockets,DraftKings,1.5,-1.5,-110,-110,2025-11-08T00:30:00Z,2025-10-06T02:15:41Z
+930e0687ebe1ad6186e1db0d88fe7f4a,Denver Nuggets,Golden State Warriors,DraftKings,-5.5,5.5,-110,-110,2025-11-08T03:00:00Z,2025-10-06T02:15:41Z
+63016986bd7402f9433def9ec4be4fe1,New York Knicks,Miami Heat,DraftKings,-9.5,9.5,-110,-110,2025-11-15T00:00:00Z,2025-10-06T02:15:41Z
+46fc9b98835561f7bfa81c7275b3ed37,San Antonio Spurs,Golden State Warriors,DraftKings,-1.0,1.0,-105,-115,2025-11-15T02:30:00Z,2025-10-06T02:15:41Z
+58c5d4f9449efc54b2a2ceb71ca6878b,Cleveland Cavaliers,Indiana Pacers,DraftKings,-10.0,10.0,-110,-110,2025-11-22T00:00:00Z,2025-10-06T02:15:41Z
+8162993fb172c214bf7e7338079a0e79,Houston Rockets,Denver Nuggets,DraftKings,-3.0,3.0,-110,-110,2025-11-22T02:30:00Z,2025-10-06T02:15:41Z
+a43d5e85ccdf728d56f44bfda12b9d06,Philadelphia 76ers,Orlando Magic,DraftKings,1.0,-1.0,-110,-110,2025-11-26T01:00:00Z,2025-10-06T02:15:41Z
+b7209d3aae71bb2dc1ca8f9412a95a4a,Los Angeles Lakers,Los Angeles Clippers,DraftKings,-1.0,1.0,-105,-115,2025-11-26T04:00:00Z,2025-10-06T02:15:41Z
+e69335f9f4054ca683c7219dabdeac53,Boston Celtics,Detroit Pistons,DraftKings,-1.0,1.0,-110,-110,2025-11-26T22:00:00Z,2025-10-06T02:15:41Z
+63748218430054c9c947b1beeab351c9,Oklahoma City Thunder,Minnesota Timberwolves,DraftKings,-8.0,8.0,-110,-110,2025-11-27T00:30:00Z,2025-10-06T02:15:41Z
+c728773fb406fb68e411f28e838ef9ed,Golden State Warriors,Houston Rockets,DraftKings,1.0,-1.0,-110,-110,2025-11-27T03:00:00Z,2025-10-06T02:15:41Z
+7352c74ba8dbdb543d750f378fc002d5,New York Knicks,Milwaukee Bucks,DraftKings,-6.0,6.0,-110,-110,2025-11-29T00:30:00Z,2025-10-06T02:15:41Z
+78aabf080c02d6b74d6d5a15ae2d2a81,Los Angeles Lakers,Dallas Mavericks,DraftKings,-6.5,6.5,-110,-110,2025-11-29T03:00:00Z,2025-10-06T02:15:41Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,DraftKings,-2.5,2.5,-110,-110,2025-12-25T17:00:00Z,2025-10-06T02:15:41Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,FanDuel,-1.5,1.5,-115,-105,2025-12-25T17:00:00Z,2025-10-06T02:14:06Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,MyBookie.ag,-2.5,2.5,-110,-110,2025-12-25T17:00:00Z,2025-10-06T02:15:34Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,LowVig.ag,-2.0,2.0,-106,-106,2025-12-25T17:00:00Z,2025-10-06T02:15:32Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,Bovada,-2.5,2.5,-110,-110,2025-12-25T17:00:00Z,2025-10-06T02:15:01Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,BetOnline.ag,-2.0,2.0,-110,-110,2025-12-25T17:00:00Z,2025-10-06T02:15:32Z
+f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,Cleveland Cavaliers,BetRivers,-2.5,2.5,-113,-113,2025-12-25T17:00:00Z,2025-10-06T02:15:50Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,DraftKings,-9.5,9.5,-115,-105,2025-12-25T19:30:00Z,2025-10-06T02:15:41Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,FanDuel,-9.5,9.5,-112,-108,2025-12-25T19:30:00Z,2025-10-06T02:14:06Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,LowVig.ag,-9.5,9.5,-106,-106,2025-12-25T19:30:00Z,2025-10-06T02:15:32Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,Bovada,-9.5,9.5,-110,-110,2025-12-25T19:30:00Z,2025-10-06T02:15:01Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,BetOnline.ag,-9.5,9.5,-110,-110,2025-12-25T19:30:00Z,2025-10-06T02:15:32Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,MyBookie.ag,-9.5,9.5,-110,-110,2025-12-25T19:30:00Z,2025-10-06T02:15:34Z
+4ca0a40cec306fd9a3c9b36b1e76500e,Oklahoma City Thunder,San Antonio Spurs,BetRivers,-9.5,9.5,-112,-113,2025-12-25T19:30:00Z,2025-10-06T02:15:50Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,DraftKings,-4.5,4.5,-112,-108,2025-12-25T22:00:00Z,2025-10-06T02:15:41Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,FanDuel,-4.5,4.5,-110,-110,2025-12-25T22:00:00Z,2025-10-06T02:14:06Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,LowVig.ag,-4.0,4.0,-106,-106,2025-12-25T22:00:00Z,2025-10-06T02:15:32Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,Bovada,-4.5,4.5,-110,-110,2025-12-25T22:00:00Z,2025-10-06T02:15:01Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,BetOnline.ag,-4.0,4.0,-110,-110,2025-12-25T22:00:00Z,2025-10-06T02:15:32Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,MyBookie.ag,-4.5,4.5,-110,-110,2025-12-25T22:00:00Z,2025-10-06T02:15:34Z
+9010f7d8f26d5880c63b67355800f997,Golden State Warriors,Dallas Mavericks,BetRivers,-4.5,4.5,-114,-112,2025-12-25T22:00:00Z,2025-10-06T02:15:50Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,DraftKings,-2.5,2.5,-112,-108,2025-12-26T01:00:00Z,2025-10-06T02:15:41Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,FanDuel,-2.5,2.5,-110,-110,2025-12-26T01:00:00Z,2025-10-06T02:14:06Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,LowVig.ag,-1.5,1.5,-101,-111,2025-12-26T01:00:00Z,2025-10-06T02:15:32Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,Bovada,-2.5,2.5,-110,-110,2025-12-26T01:00:00Z,2025-10-06T02:15:01Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,BetOnline.ag,-1.5,1.5,-105,-115,2025-12-26T01:00:00Z,2025-10-06T02:15:32Z
+d54afb5b752a199f93e39afc2b39d091,Los Angeles Lakers,Houston Rockets,MyBookie.ag,-2.5,2.5,-110,-110,2025-12-26T01:00:00Z,2025-10-06T02:15:34Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,DraftKings,-5.0,5.0,-115,-105,2025-12-26T03:30:00Z,2025-10-06T02:15:41Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,FanDuel,-4.5,4.5,-108,-112,2025-12-26T03:30:00Z,2025-10-06T02:14:06Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,LowVig.ag,-4.5,4.5,-111,-101,2025-12-26T03:30:00Z,2025-10-06T02:15:32Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,Bovada,-4.5,4.5,-110,-110,2025-12-26T03:30:00Z,2025-10-06T02:15:01Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,BetOnline.ag,-4.5,4.5,-115,-105,2025-12-26T03:30:00Z,2025-10-06T02:15:32Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,MyBookie.ag,-4.5,4.5,-110,-110,2025-12-26T03:30:00Z,2025-10-06T02:15:34Z
+6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,Minnesota Timberwolves,BetRivers,-4.5,4.5,-109,-115,2025-12-26T03:30:00Z,2025-10-06T02:15:50Z
+60b04efecd19028a2eb20c81649abaf1,Atlanta Hawks,Milwaukee Bucks,DraftKings,-5.0,5.0,-110,-110,2026-01-19T18:00:00Z,2025-10-06T02:15:41Z
+d9b1ce3cf25e2645fdb24e89d4f1a38e,Cleveland Cavaliers,Oklahoma City Thunder,DraftKings,-1.0,1.0,-105,-115,2026-01-19T19:30:00Z,2025-10-06T02:15:41Z
+e7f04ed48f026208a6d078b5b3bc118b,New York Knicks,Dallas Mavericks,DraftKings,-6.0,6.0,-110,-110,2026-01-19T22:00:00Z,2025-10-06T02:15:41Z
+df230babfc6ef1362f740fbb16136e77,Detroit Pistons,Boston Celtics,DraftKings,-4.5,4.5,-110,-110,2026-01-20T01:00:00Z,2025-10-06T02:15:41Z
