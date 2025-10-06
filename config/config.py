@@ -4,9 +4,15 @@ Configuration settings for the sports betting ML system.
 
 import os
 from typing import Dict, List, Optional
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # API Configuration
-ODDS_API_KEY = os.getenv("ODDS_API_KEY", "34ed2dc9566ad15743e1ef7eac40a2ca")
+ODDS_API_KEY = os.getenv("ODDS_API_KEY")
+if not ODDS_API_KEY:
+    raise ValueError("ODDS_API_KEY not found! Create a .env file with your API key.")
 NBA_API_BASE_URL = "https://stats.nba.com/stats"
 
 # Data Collection Settings

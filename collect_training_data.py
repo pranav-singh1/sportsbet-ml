@@ -14,6 +14,7 @@ sys.path.append('src')
 
 from data_collection.odds_api import OddsAPIClient
 from data_collection.nba_api import NBAPlayerStats
+from config.config import ODDS_API_KEY
 
 def collect_full_dataset():
     """Collect comprehensive training data."""
@@ -23,7 +24,7 @@ def collect_full_dataset():
     print("="*60)
     
     # Initialize clients
-    odds_client = OddsAPIClient('34ed2dc9566ad15743e1ef7eac40a2ca')
+    odds_client = OddsAPIClient(ODDS_API_KEY)
     nba_client = NBAPlayerStats()
     
     # 1. Get current NBA odds

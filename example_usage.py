@@ -20,7 +20,7 @@ from data_collection.nba_api import NBAPlayerStats
 from feature_engineering.feature_builder import SportsFeatureBuilder
 from models.baseline_models import create_baseline_models, ModelEnsemble
 from backtesting.backtester import Backtester, ConservativeStrategy, AggressiveStrategy
-from config.config import get_config
+from config.config import get_config, ODDS_API_KEY
 
 
 def example_data_collection():
@@ -30,8 +30,7 @@ def example_data_collection():
     print("=" * 60)
     
     # Initialize Odds API client
-    api_key = "34ed2dc9566ad15743e1ef7eac40a2ca"  # Your API key
-    odds_client = OddsAPIClient(api_key)
+    odds_client = OddsAPIClient(ODDS_API_KEY)
     
     # Fetch NBA odds
     print("Fetching NBA odds...")

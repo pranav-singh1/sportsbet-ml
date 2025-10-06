@@ -204,8 +204,17 @@ class OddsAPIClient:
 
 def main():
     """Example usage of OddsAPIClient."""
-    # Initialize client with your API key
-    api_key = "34ed2dc9566ad15743e1ef7eac40a2ca"  # Replace with your actual API key
+    import os
+    from dotenv import load_dotenv
+    load_dotenv()
+    
+    # Initialize client with your API key from environment
+    api_key = os.getenv("ODDS_API_KEY")
+    if not api_key:
+        print("Error: ODDS_API_KEY not found in environment variables")
+        print("Create a .env file with: ODDS_API_KEY=your_key_here")
+        return
+    
     client = OddsAPIClient(api_key)
     
     # Fetch current NBA odds
